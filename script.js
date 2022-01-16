@@ -1,11 +1,13 @@
 const newGameBtn = document.querySelector(".btn-new-game");
 const rollDiceBtn = document.querySelector(".btn-roll-dice");
 const holdBtn = document.querySelector(".btn-hold");
+
 const totalScore1 = document.querySelector(".total-score-1");
 const totalScore2 = document.querySelector(".total-score-2");
 const score1 = document.querySelector(".score-1");
 const score2 = document.querySelector(".score-2");
-const dice = document.querySelector(".dice-img");
+
+const dice = document.querySelector(".dice");
 const player1 = document.querySelector(".player-1");
 const player2 = document.querySelector(".player-2");
 
